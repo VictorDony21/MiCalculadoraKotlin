@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiCalculadoraKotlin</string>
+    <string name="user">Victor</string>
+    <string name="password">123456</string>
+</resources>
